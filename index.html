@@ -79,13 +79,15 @@ border-color:#287EC7;
   line-height: 1.5;
 }
 	
-	    .striped-border {
-        border: 1px dashed #000;
-        width: 50%;
-        margin: auto;
-        margin-top: 5%;
-        margin-bottom: 5%;
-    }
+	    
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
 
 </style>
 </head>
@@ -101,7 +103,8 @@ border-color:#287EC7;
   
   
   <article>
-    <h2 class="striped-border">Introduction</h2>
+	  <h2>Introduction</h2>
+	  <hr/>
 	  <p class="demopara"> This is blog is meant to be a starting point for any new Swift user. It is meant to be an informative blog that contains a history of the programming language, as well as look at some acutal code. As new users of Swift ourselves, this is blog is here to help guide us in our learning of Swift, and inform you on certain findings that we may find interesting. Thank you.</p>
     <p class="demopara">"Swift is a powerful and intuitive programming language for macOS, iOS, watchOS and tvOS. 
 	Writing Swift code is interactive and fun, the syntax is concise yet expressive, 
