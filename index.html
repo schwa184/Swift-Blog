@@ -252,7 +252,14 @@ Another aspect of Swift that I enjoyed reading about was how to create an App wi
 		  implemented in Swift. The main thing to try to understand here, "is that for every iteration the algorithm finds a key index and it looks back to the first one (in the opposite way if the sort is descending!) in order to find a sorted place for the current item.
 		  In this way at the end of every iteration we have a sorted array up to the current key index and an unsorted array from the current key index to the end."(From the Blog: Fundamentals of sorting algorithms in Swift)</p>
 	  
+	  <center><img src="insertioncode.jpg"></center>
+	   <figcaption><center><i>Fig.3 - (From the Blog: Fundamentals of sorting algorithms in Swift)</i></center></figcaption>
 	  
+	   <p class="demopara">Initially the algorithm cycles over the second to last element;
+it blocks the current key element;
+the algorithm looks back until the first element in order to sort the array from 0 to key;
+swap elements;
+Also, it is important to note that Insertion sort is O(n²) runtime, but typically works better then Bubble sort.</p>
 	  
   </article>
 	
