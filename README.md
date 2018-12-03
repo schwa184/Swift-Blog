@@ -1,6 +1,6 @@
 # Swift-Blog
 
-# Go to: 
+# Go to: https://schwa184.github.io/Swift-Blog/
 https://schwa184.github.io/Swift-Blog/
 To view blog
 
