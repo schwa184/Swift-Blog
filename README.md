@@ -1,8 +1,6 @@
 # Swift-Blog
 
-# Go to: https://schwa184.github.io/Swift-Blog/
-https://schwa184.github.io/Swift-Blog/
-To view blog
+# Go to: https://schwa184.github.io/Swift-Blog/ to view Blog
 
 - Contributors only: Edit index.html page to update blog 
 
