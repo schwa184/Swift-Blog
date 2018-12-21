@@ -6,6 +6,8 @@ This is blog is meant to be a starting point for any new Swift user. It is meant
 # Go to: https://schwa184.github.io/Swift-Blog/ to view Blog
 
 # Calendar Project link:
-- Separate github link to the our Calendar Project 
+- Separate github link to the our Calendar Project:
+
+# Go to: https://github.com/casta145/calendar to view Calendar Project
 
 
